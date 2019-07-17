@@ -1,4 +1,0 @@
-# hello-world
-learn how to create a repository
-学习创建分支文件
-在 master 分⽀中再创建⼀个名为 master.txt 的⽂件，提交⼀个 commit
